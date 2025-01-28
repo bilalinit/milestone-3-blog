@@ -15,7 +15,7 @@ export default function About() {
                 <div className="uppercase tracking-wide text-sm text-blue-400 font-semibold">Bilal Saeed</div>
                 <p className="mt-2 text-gray-300">Web Developer, Video Editor & 3D Artist</p>
                 <p className="mt-4 text-gray-400">
-                  Hello! I'm Bilal Saeed, a passionate web developer and tech enthusiast. I started learning coding a
+                  Hello! Im Bilal Saeed, a passionate web developer and tech enthusiast. I started learning coding a
                   year ago from GIAIC, first under Sir Isfan and now under Sir Mubisher. I have learned TypeScript,
                   HTML, CSS, Tailwind, Next.js, Sanity, Vercel, and Firebase. Along with web development, I am also a
                   video editor, motion graphics artist in tools like Adobe After Effects, Davinchi Resolve and Adobe Premiere Pro, and 3D artist in Blender and Unreal Engine.
@@ -54,7 +54,7 @@ export default function About() {
           <div className="mt-12 bg-gray-800 rounded-lg shadow-xl p-8">
             <h2 className="text-2xl font-bold mb-4 text-blue-400">Get in Touch</h2>
             <p className="text-gray-300 mb-4">
-              I'm always open to new opportunities, collaborations, or just a friendly chat about web development or
+              Im always open to new opportunities, collaborations, or just a friendly chat about web development or
               digital arts. Feel free to reach out to me through any of the following channels:
             </p>
             <ul className="text-gray-300 space-y-2">
